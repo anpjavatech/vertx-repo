@@ -1,3 +1,4 @@
+/*
 package io.vertx.starter;
 
 import io.vertx.core.Vertx;
@@ -37,4 +38,4 @@ public class MainVerticleTest {
     });
   }
 
-}
+}*/
